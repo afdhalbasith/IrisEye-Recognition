@@ -8,5 +8,7 @@ Using eye image from CASIA DATABASE V.1 :
   
   
 zPreProcess     ==> Proses Segmentasi Gambar Mata 
+
 zFeatureExtract ==> Proses Ekstraksi Fitur Gambar Mata
+
 ZKlasifikasi    ==> Proses Klasifikasi Mata Menggunakan Data Test dan Data Train
